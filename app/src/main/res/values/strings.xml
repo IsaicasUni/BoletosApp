@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">BoletosApp</string>
+    <string name="nomEmpresa">El Destino Feliz</string>
+    <string name="descripcion">Agencia de Viajes</string>
+    <string name="numBoleto">No Boleto:</string>
+    <string name="soliBoleto">Ingresa el número de boleto</string>
+    <string name="nomCliente">Nombre:</string>
+    <string name="soliNombre">Ingresa tu nombre</string>
+    <string name="edadCliente">Edad:</string>
+    <string name="soliEdad">Ingresa tu edad</string>
+    <string name="fecha">Fecha:</string>
+    <string name="soliFecha">DD/MM/AAAA</string>
+    <string name="destino">Destino:</string>
+    <string name="selecBoleto">Tipo de boleto:</string>
+    <string name="precio">Precio:</string>
+    <string name="soliPrecio">Ingresa el precio</string>
+    <string name="Imprimir">Imprimir</string>
+    <string name="Vaciar">Nuevo boleto</string>
+
+    <string-array name="destinos">
+        <item>Ciudad de México</item>
+        <item>Monterrey</item>
+        <item>Guanajuato</item>
+        <item>Puerto Vallarta</item>
+        <item>Oaxaca</item>
+        <item>Guadalajara</item>
+        <item>Cancún</item>
+        <item>Campeche</item>
+        <item>Zacatecas</item>
+        <item>Acapulco</item>
+    </string-array>
+
+    <string-array name="tipoBoleto">
+        <item>Sencillo</item>
+        <item>Doble</item>
+    </string-array>
+
+</resources>
